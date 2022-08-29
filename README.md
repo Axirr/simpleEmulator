@@ -1,1 +1,1 @@
-A simple CPU emulator written in C. 
+A simple Chip-8 emulator written in C. 
